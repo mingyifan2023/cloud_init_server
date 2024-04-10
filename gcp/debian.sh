@@ -81,3 +81,6 @@ $ echo \
 # Dockerのインストール
 apt update
 apt install docker-ce docker-ce-cli containerd.io docker-compose-plugin
+
+# install docker-compose
+apt-get install -y docker-compose
